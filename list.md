@@ -4,4 +4,4 @@
 
 ### 3GPP
 
-[TR 38.811](https://sulu.cdkm.com/convert/file/st3cpszdggp56sle2qpdf80ztqo17e6i/38811-f40.html)
+[TR 38.811](https://htmlpreview.github.io/?https://github.com/hkkkk02/notes/blob/main/3GPP%20TR%2038.811.html)
